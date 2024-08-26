@@ -55,4 +55,31 @@ A spectrogram is a visual representation of the spectrum of frequencies of a sig
 
 We are supplied with an audio file, we need to find the flag.
 - Answer: 
+Download and open Wavepad (or any other wave analyzer tool). Open the audio file in wavepad. 
+Then go to tools -> TFFT mode, flag is revealed.
+![alt text](image.png)
+- Flag:
+Super secret message
 
+# Steganography
+- Question:
+Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.
+
+Decode the image to reveal the answer.
+- Answer:
+Open the file in an Steganographic Decoder like futureboy.us or steghide. With steghide the command is '$ steghide extract -sf stegosteg.jpg'
+- Flag:
+SpaghettiSteg
+
+# Security through obscurity
+- Question:
+Security through obscurity is the reliance in security engineering on the secrecy of the design or implementation as the main method of providing security for a system or component of a system.
+
+Download and get 'inside' the file. What is the first filename & extension?
+Get inside the archive and inspect the file carefully. Find the hidden text.
+- Answer:
+Download the .png file and open it as a .txt file
+Scroll to find the flag
+- Flag:
+hackerchat.png
+AHH_YOU_FOUND_ME!
