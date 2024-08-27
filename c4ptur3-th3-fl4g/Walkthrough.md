@@ -2,49 +2,58 @@
 
 #### Task 1
 To crack: c4n y0u c4p7u23 7h3 f149?
+
 Cracked answer: can you capture the flag
 
 #### Task 2
 To crack: 01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001
 - From Binary translation
+
 Cracked answer: lets try some binary out!
 
 #### Task 3
 To crack: MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======
 - '======' = Base encoding
 - Base32 translation
+
 Cracked answer: base32 is super common in CTF's
 
 #### Task 4
 To crack: RWFjaCBCYXNlNjQgZGlnaXQgcmVwcmVzZW50cyBleGFjdGx5IDYgYml0cyBvZiBkYXRhLg==
 - '==' = Base encoding
 - Base64 translation
+
 Cracked answer: Each Base64 digit represents exactly 6 bits of data.
 
 #### Task 5
 To crack: 68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f
 - hex translation
+
 Cracked answer: hexadecimal or base16?
 
 #### Task 6
 To crack: Ebgngr zr 13 cynprf!
 - ROT13 translation
+
 Cracked answer: Rotate me 13 places!
 
 #### Task 7
 To crack: *@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX
 - Special characters & all upper case letter = ROT47
 - rot47 translation
+
 Cracked answer: You spin me right round baby right round (47 times)
 
 #### Task 8
 To crack: - . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -. . -. -.-. --- -.. .. -. --.
 - Morse code translation
+
 Cracked answer: TELECOMMUNICATION  ENCODING
 
 #### Task 9
 To crack: 85 110 112 97 99 107 32 116 104 105 115 32 66 67 68
 - Decimal translation
+
 Cracked answer: Unpack this BCD
 
 #### Task 10
