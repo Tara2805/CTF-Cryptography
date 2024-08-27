@@ -1,7 +1,7 @@
 # Level 1
 
 ## Task 1
-Hash: 48bb6e862e54f2a795ffc4e541caed4d
+**Hash:** 48bb6e862e54f2a795ffc4e541caed4d
 Method: Paste into crackstation
 Type: md5
 Flag: easy
