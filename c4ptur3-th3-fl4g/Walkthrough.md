@@ -75,7 +75,7 @@ We are supplied with an audio file, we need to find the flag.
 ### Answer: 
 Download and open Wavepad (or any other wave analyzer tool). Open the audio file in wavepad. 
 Then go to tools -> TFFT mode, flag is revealed.
-![alt text](TFFT.png)
+![alt text](tfft.png)
 ### Flag:
 Super secret message
 

@@ -25,7 +25,7 @@
 
 **Type:** sha256
 
-**Flag:**letmein
+**Flag:** letmein
 
 ## Task 4
 **Hash:** $2y$12$Dwt1BZj6pcyc3Dy1FWZ5ieeUznr71EeNkJkUlypTsgbX1H68wsRom
@@ -52,7 +52,7 @@
 ## Task 1
 **Hash:**  F09EDCB1FCEFC6DFB23DC3505A882655FF77375ED8AA2D1C13F640FCCC2D0C85
 
-**Method:**hashcat -m 1400 -a 0 Hash/hash.txt Dict/rockyou.txt
+**Method:** hashcat -m 1400 -a 0 Hash/hash.txt Dict/rockyou.txt
 
 **Type:** sha256
 
