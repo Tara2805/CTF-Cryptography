@@ -55,6 +55,7 @@ To crack: LS0tLS0gLi0tLS0gLi0tLS0gLS0tLS0gLS0tLS0gLi0tLS0gLi0tLS0gLS0tLS0KLS0tLS
 - then binary translation
 - then decimal translation
 - then rot47 translation
+
 Cracked answer: Let's make this a bit trickier...
 
 # Spectrograms
